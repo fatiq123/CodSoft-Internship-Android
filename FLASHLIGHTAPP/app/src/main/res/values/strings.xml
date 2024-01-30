@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FLASHLIGHT APP</string>
+    <string name="flashlight">FLASHLIGHT APP</string>
+    <string name="flash_light_state">Flash Light is Off</string>
+    <string name="your_device_does_not_have_a_flashlight">Your device does not have a flashlight.</string>
+</resources>
